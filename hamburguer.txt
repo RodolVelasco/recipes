@@ -1,0 +1,6 @@
+1.bread
+2.steak
+3.letuce
+4.tomate
+5.onions
+6.cook
